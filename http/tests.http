@@ -1,0 +1,21 @@
+###
+POST http://localhost:5173/api/login
+Content-Type: application/json
+
+{
+  "username": "pixelafk",
+  "email": "daviddenhaan@gmail.com",
+  "password": "Banana"
+}
+
+###
+POST http://localhost:5173/api/register
+Content-Type: application/json
+
+{
+  "username": "pixelafk",
+  "email": "daviddenhaan@gmail.com",
+  "password": "Banana"
+}
+
+###
